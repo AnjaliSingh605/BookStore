@@ -7,7 +7,6 @@ A RESTful backend for an online bookstore with user authentication, book managem
 * JWT-based user authentication & role management
 * Full CRUD for books (admin only)
 * Order placement with stock validation & auto price calculation
-* Real-time chat via Socket.io
 
 ## Tech Stack
 
