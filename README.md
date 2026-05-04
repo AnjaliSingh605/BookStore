@@ -49,4 +49,4 @@ API runs at **http://localhost:5000**
 
 ## Author
 
-Your Name
+Anjali Singh
