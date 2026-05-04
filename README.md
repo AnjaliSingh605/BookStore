@@ -1,6 +1,6 @@
 # 📚 Bookstore API – Online Book Store Backend
 
-A RESTful backend for an online bookstore with user authentication, book management, order processing, and real-time chat.
+A RESTful backend for an online bookstore with user authentication, book management and order processing.
 
 ## Features
 
